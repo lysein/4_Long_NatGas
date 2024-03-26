@@ -7,3 +7,4 @@ ipykernel
 xlrd
 yfinance
 plotly
+nbformat
